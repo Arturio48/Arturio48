@@ -13,6 +13,7 @@
 ## Что лежит в репозиториях
 
 - [security-audit](https://github.com/Arturio48/security-audit) - скилл для ИИ-агента: провести аудит сайта и сервера, показать доказательства, закрыть найденное.
+- [max-cdp-reader](https://github.com/Arturio48/max-cdp-reader) - читалка чатов MAX для агента: локальный мост к браузеру, только чтение, готовая инструкция для развёртывания.
 - [scientific-article-builder](https://github.com/Arturio48/scientific-article-builder) - конвейер научной статьи с проверяемыми цитатами по ГОСТ.
 
 ## Связь
